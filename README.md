@@ -1,5 +1,6 @@
 # Projet7
-Notebooks et présentation / note méthodologique du projet
+Notebooks et présentation / note méthodologique du projet.
+
 Ce dossier concerne le projet n°7 dans le cadre de la formation "data scientist" proposée par Open ClassRooms en partenariat avec Centrale Supélec: "implémentez un modèle de scoring". Le projet a été découpé en 3 repositories distincts pour éviter les problèmes de dépendances entre l'API et le dashboard lors du déploiement.
 Ce dossier a été créé de manière synchronisé avec les dossiers suivants: 
 
